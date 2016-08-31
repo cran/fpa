@@ -1,0 +1,15 @@
+b9aa375599ec51f120fe6c1acd5de575 *DESCRIPTION
+d9796015c5ecb9309fbc23ddd8b9d67d *NAMESPACE
+5fadef8993ec3ec2f080ed941ac31408 *R/plots.R
+85007dea46185e17f24d411ab0eb7d9b *R/preprocess.R
+9d5cb0f41e77f22692c71ee2300e6061 *data/newdata.rda
+3d1bb5f9e14c3268c943bab785ea34d1 *data/pattern.rda
+5c0d82fa9c1a11334381a129c32af6e0 *data/rawdata.rda
+613ebf75985e501d6a17b46d2918e80d *man/fpa-package.Rd
+d5335e89f5e47da6f1494b4c12ea876b *man/ft2fp.Rd
+5840d4aca101d345afd637d1effebef3 *man/get_pattern.Rd
+80eb5672d68235e86ecf063576e117de *man/lineplot.Rd
+bcac7081ccf93c5554a3d795647c6d39 *man/newdata.Rd
+1c599d4b2780973f5f630ead27b0bbef *man/pattern.Rd
+a7e8ad376afc72f0a519e94d4c6bd584 *man/plot_pattern.Rd
+05aba181292d07435a27bbb099b4d038 *man/rawdata.Rd
